@@ -1,7 +1,4 @@
-Nicolle Ayon Campos
-nayoncam 
-README for Lab2
-README
+README for FileReverse
 ==================================
 
 FILES BEING SUBMITTED: 
